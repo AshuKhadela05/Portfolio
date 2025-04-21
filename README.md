@@ -7,7 +7,7 @@ This project showcases my skills, projects, and contact information in a visuall
 
 ## 🖼️ Live Demo
 
-👉 [View Portfolio Website](#https://ashukhadela05.github.io/Portfolio/)
+👉 [View Portfolio Website](https://ashukhadela05.github.io/Portfolio/)
 
 ---
 
